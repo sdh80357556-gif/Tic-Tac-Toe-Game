@@ -1,0 +1,16 @@
+C:\Users\신동훈\source\repos\틱택토 게임\Tic-Tac-Toe-Game\틱택토 게임\틱택토 게임\obj\Debug\net10.0\틱택토 게임.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\신동훈\source\repos\틱택토 게임\Tic-Tac-Toe-Game\틱택토 게임\틱택토 게임\obj\Debug\net10.0\틱택토 게임.AssemblyInfoInputs.cache
+C:\Users\신동훈\source\repos\틱택토 게임\Tic-Tac-Toe-Game\틱택토 게임\틱택토 게임\obj\Debug\net10.0\틱택토 게임.AssemblyInfo.cs
+C:\Users\신동훈\source\repos\틱택토 게임\Tic-Tac-Toe-Game\틱택토 게임\틱택토 게임\obj\Debug\net10.0\틱택토 게임.csproj.CoreCompileInputs.cache
+C:\Users\신동훈\source\repos\틱택토 게임\Tic-Tac-Toe-Game\틱택토 게임\틱택토 게임\obj\Debug\net10.0\틱택토 게임.sourcelink.json
+C:\Users\신동훈\source\repos\틱택토 게임\Tic-Tac-Toe-Game\틱택토 게임\틱택토 게임\bin\Debug\net10.0\틱택토 게임.exe
+C:\Users\신동훈\source\repos\틱택토 게임\Tic-Tac-Toe-Game\틱택토 게임\틱택토 게임\bin\Debug\net10.0\틱택토 게임.deps.json
+C:\Users\신동훈\source\repos\틱택토 게임\Tic-Tac-Toe-Game\틱택토 게임\틱택토 게임\bin\Debug\net10.0\틱택토 게임.runtimeconfig.json
+C:\Users\신동훈\source\repos\틱택토 게임\Tic-Tac-Toe-Game\틱택토 게임\틱택토 게임\bin\Debug\net10.0\틱택토 게임.dll
+C:\Users\신동훈\source\repos\틱택토 게임\Tic-Tac-Toe-Game\틱택토 게임\틱택토 게임\bin\Debug\net10.0\틱택토 게임.pdb
+C:\Users\신동훈\source\repos\틱택토 게임\Tic-Tac-Toe-Game\틱택토 게임\틱택토 게임\obj\Debug\net10.0\틱택토 게임.dll
+C:\Users\신동훈\source\repos\틱택토 게임\Tic-Tac-Toe-Game\틱택토 게임\틱택토 게임\obj\Debug\net10.0\refint\틱택토 게임.dll
+C:\Users\신동훈\source\repos\틱택토 게임\Tic-Tac-Toe-Game\틱택토 게임\틱택토 게임\obj\Debug\net10.0\틱택토 게임.pdb
+C:\Users\신동훈\source\repos\틱택토 게임\Tic-Tac-Toe-Game\틱택토 게임\틱택토 게임\obj\Debug\net10.0\틱택토 게임.genruntimeconfig.cache
+C:\Users\신동훈\source\repos\틱택토 게임\Tic-Tac-Toe-Game\틱택토 게임\틱택토 게임\obj\Debug\net10.0\ref\틱택토 게임.dll
+C:\Users\신동훈\source\repos\틱택토 게임\Tic-Tac-Toe-Game\틱택토 게임\틱택토 게임\obj\Debug\net10.0\틱택토 게임.csproj.Up2Date
